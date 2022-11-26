@@ -1,1 +1,1 @@
-# wysz-projekt
+# wsyz-projekt
